@@ -1,0 +1,20 @@
+.incio {
+    background-color: #0c0c0c; /* Color negro */
+    color: #fff; /* Color de texto blanco para contraste (opcional) */
+    font-family: Arial, sans-serif; /* Fuente por defecto (opcional) */
+}
+.encabezado header a {
+    color: white; /* cambia el color del encabezado*/
+    text-decoration: none; /* Elimina el subrayado */
+
+    }
+    .titulo {
+        color: indigo;
+        text-decoration: underline; /* subrayado al texto */
+    }
+.imagendeportada {
+        width: 100%; /* Ajusta el ancho al 100% del contenedor */
+        height: auto; /* Mantiene la proporción original de la imagen */
+        max-width: 1200px; /* Ajusta el ancho máximo para no hacerla demasiado grande */
+        margin: 0 auto; /* Centra la imagen si tiene un ancho fijo */
+}
